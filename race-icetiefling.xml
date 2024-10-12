@@ -28,9 +28,6 @@
 		<description>
 			<p>A number of times equal to your proficiency bonus per long rest, you can touch one melee weapon or piece of ammunition to coat with your cold, infernal magic. A creature hit by the weapon or ammunition coated with your magic must make a Constitution saving throw or take 1d10 cold damage and have its speed decreases by 10 feet until the end of its next turn. The magic coating the weapon or ammunition lasts until 1 minute, after which it becomes a normal non-magical item.It increases by 1d10 at 3rd(2d10),5th(3d10),7th(4d10) and 9th(5d10) levels.</p>
                 </description>
-	        <sheet>
-			<description>A number of times equal to your proficiency bonus per long rest, you can touch one melee weapon or piece of ammunition to coat with your cold, infernal magic. A creature hit by the weapon or ammunition coated with your magic must make a Constitution saving throw or take 1d10 cold damage and have its speed decreases by 10 feet until the end of its next turn. The magic coating the weapon or ammunition lasts until 1 minute, after which it becomes a normal non-magical item.It increases by 1d10 at 3rd(2d10),5th(3d10),7th(4d10) and 9th(5d10) levels.</description>
-		</sheet>
   </element>
   <element name="Hellish Fortitude" type="Racial Trait" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING_HELLISH_FORTITUDE">
 		<description>
