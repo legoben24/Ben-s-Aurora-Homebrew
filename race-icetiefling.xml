@@ -32,7 +32,7 @@
 			<description> </description>
 		</sheet>
   </element>
-  <element name="Hellish Fortitude" type="Racial Trait" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING_HELLISH_FORTITUDE">
+  <element name="Hellish Fortitude" type="Racial Trait" source="Core" id="ID_INTERNAL_RACIAL_TRAIT_REPLACEMENT_TIEFLING_HELLISH_RESISTANCE">
 		<description>
 			<p>You have resistance against cold damage, and you do not suffer the effects of extreme cold.</p>
                 </description>
