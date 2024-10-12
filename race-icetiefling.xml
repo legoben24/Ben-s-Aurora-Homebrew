@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+
+  <element name="Ice Tiefling" type="Sub Race" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING">
+    <supports>Tiefling</supports>
+    <description>
+      <p>An ice tiefling draws upon the power of ice devil, the insectoid fiend accustomed to frigid-cold climates of the infernal realms. These tieflings have the following additional features.</p>
+      <p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 1.</p>
+      <p class="indent"><strong><em>Hellish Fortitude.</em></strong> You have resistance against cold damage, and you do not suffer the effects of extreme cold.</p>
+      <p class="indent"><strong><em>Freezing Touch.</em></strong> As an action, you can magically touch an object with your hand to coat it with frost, or partially freeze it.</p>
+      <p class="indent"><strong><em>Hellish Frost.</em></strong> A number of times equal to your proficiency bonus per long rest, you can touch one melee weapon or piece of ammunition to coat with your cold, infernal magic. A creature hit by the weapon or ammunition coated with your magic must make a Constitution saving throw or take 1d10 cold damage and have its speed decreases by 10 feet until the end of its next turn. The magic coating the weapon or ammunition lasts until 1 minute, after which it becomes a normal non-magical item.It increases by 1d10 at 3rd(2d10),5th(3d10),7th(4d10) and 9th(5d10) levels.</p>
+      <p class="indent"><strong><em>Language.</em></strong> You can speak, read, and write Infernal.</p>
+    </description>
+    <rules>
+      <stat name="dexterity" value="1" />      
+    </rules>
+  </element>
+
+</elements>
