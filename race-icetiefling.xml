@@ -45,4 +45,5 @@
 			<p>As an action, you can magically touch an object with your hand to coat it with frost, or partially freeze it.</p>
                 </description>
   </element>
+  <element name="Hellish Resistance Replacement" type="Grants" source="Internal" id="ID_INTERNAL_RACIAL_TRAIT_REPLACEMENT_TIEFLING_HELLISH_RESISTANCE" />
 </elements>
