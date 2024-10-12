@@ -43,6 +43,17 @@
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
 		</rules>
   </element>
+  <element name="Hellish Fortitude" type="Racial Trait" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING_HELLISH_FORTITUDE">
+		<description>
+			<p>You have resistance against cold damage, and you do not suffer the effects of extreme cold.</p>
+                </description>
+	         <sheet>
+			<description>You have resistance to cold damage, and you do not suffer the effects of extreme cold.</description>
+		 </sheet>
+		<rules>
+			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
+		</rules>
+  </element>
   <element name="Freezing Touch" type="Racial Trait" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING_FREEZING_TOUCH">
 		<description>
 			<p>As an action, you can magically touch an object with your hand to coat it with frost, or partially freeze it.</p>
