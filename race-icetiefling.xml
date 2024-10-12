@@ -34,4 +34,9 @@
 			<p>You have resistance against cold damage, and you do not suffer the effects of extreme cold.</p>
                 </description>
   </element>
+  <element name="Freezing Touch" type="Racial Trait" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING_FREEZING_TOUCH">
+		<description>
+			<p>As an action, you can magically touch an object with your hand to coat it with frost, or partially freeze it.</p>
+                </description>
+  </element>
 </elements>
