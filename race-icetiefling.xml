@@ -25,42 +25,42 @@
     </rules>
   </element>
   <element name="Hellish Frost" type="Racial Trait" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING_HELLISH_FROST">
-		<description>
-			<p>A number of times equal to your proficiency bonus per long rest, you can touch one melee weapon or piece of ammunition to coat with your cold, infernal magic. A creature hit by the weapon or ammunition coated with your magic must make a Constitution saving throw or take 1d10 cold damage and have its speed decreases by 10 feet until the end of its next turn. The magic coating the weapon or ammunition lasts until 1 minute, after which it becomes a normal non-magical item.It increases by 1d10 at 3rd(2d10),5th(3d10),7th(4d10) and 9th(5d10) levels.</p>
+<description>
+<p>A number of times equal to your proficiency bonus per long rest, you can touch one melee weapon or piece of ammunition to coat with your cold, infernal magic. A creature hit by the weapon or ammunition coated with your magic must make a Constitution saving throw or take 1d10 cold damage and have its speed decreases by 10 feet until the end of its next turn. The magic coating the weapon or ammunition lasts until 1 minute, after which it becomes a normal non-magical item.It increases by 1d10 at 3rd(2d10),5th(3d10),7th(4d10) and 9th(5d10) levels.</p>
                 </description>
-	        <sheet>
-			<description> </description>
-		</sheet>
+        <sheet>
+<description>Check additional features.</description>
+</sheet>
   </element>
   <element name="Hellish Fortitude" type="Racial Trait" source="Core" id="ID_INTERNAL_RACIAL_TRAIT_REPLACEMENT_TIEFLING_HELLISH_RESISTANCE">
-		<description>
-			<p>You have resistance against cold damage, and you do not suffer the effects of extreme cold.</p>
+<description>
+<p>You have resistance against cold damage, and you do not suffer the effects of extreme cold.</p>
                 </description>
-	         <sheet>
-			<description>You have resistance to cold damage, and you do not suffer the effects of extreme cold.</description>
-		 </sheet>
-		<rules>
-			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
-		</rules>
+         <sheet>
+<description>You have resistance to cold damage, and you do not suffer the effects of extreme cold.</description>
+ </sheet>
+<rules>
+<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
+</rules>
   </element>
   <element name="Hellish Fortitude" type="Racial Trait" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING_HELLISH_FORTITUDE">
-		<description>
-			<p>You have resistance against cold damage, and you do not suffer the effects of extreme cold.</p>
+<description>
+<p>You have resistance against cold damage, and you do not suffer the effects of extreme cold.</p>
                 </description>
-	         <sheet>
-			<description>You have resistance to cold damage, and you do not suffer the effects of extreme cold.</description>
-		 </sheet>
-		<rules>
-			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
-		</rules>
+         <sheet>
+<description>You have resistance to cold damage, and you do not suffer the effects of extreme cold.</description>
+ </sheet>
+<rules>
+<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
+</rules>
   </element>
   <element name="Freezing Touch" type="Racial Trait" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_ICE_TIEFLING_FREEZING_TOUCH">
-		<description>
-			<p>As an action, you can magically touch an object with your hand to coat it with frost, or partially freeze it.</p>
+<description>
+<p>As an action, you can magically touch an object with your hand to coat it with frost, or partially freeze it.</p>
                 </description>
-	         <sheet>
-			<description>As an action, you can magically touch an object with your hand to coat it with frost, or partially freeze it.</description>
-		 </sheet>
+         <sheet>
+<description>As an action, you can magically touch an object with your hand to coat it with frost, or partially freeze it.</description>
+ </sheet>
   </element>
   <element name="Tiefling Subrace" type="Grants" source="Internal" id="ID_INTERNAL_GRANTS_TIEFLING_SUBRACE" />
   <element name="Hellish Resistance Replacement" type="Grants" source="Internal" id="ID_INTERNAL_RACIAL_TRAIT_REPLACEMENT_TIEFLING_HELLISH_RESISTANCE" />
